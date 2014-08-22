@@ -1,0 +1,6 @@
+{
+    name: "Foo",
+    title: "Bar",
+    id: 1,
+    extra: "Foo Bar..."
+}
